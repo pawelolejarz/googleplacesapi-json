@@ -1,0 +1,189 @@
+[
+      {
+        "geometry": {
+          "location": {
+            "lat": 50.08244779999999,
+            "lng": 20.0224863
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.08379678029149,
+              "lng": 20.0238352802915
+            },
+            "southwest": {
+              "lat": 50.08109881970849,
+              "lng": 20.02113731970849
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "1850c173d9c3bf4d0cdd54626ceb56bf527bb68f",
+        "name": "KFC",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 608,
+            "html_attributions": [
+              "\u003ca href=\"https://maps.google.com/maps/contrib/117893202703094118716/photos\"\u003eKFC\u003c/a\u003e"
+            ],
+            "photo_reference": "CmRaAAAAJaXQpXeNH_u8MWJxGqU6ySAkEbTLuxTPQEY2JdSMdoU1DJYSwmL5Qs2ZBsm6mEJPBf5wWvkFyxkxIOrvBteWBlUYoZJaX8bT0sDUMYB76LRHxGQQyGqCfffA96_D-6mlEhBaa080yDXq0s4P7q4pVhFOGhS2rMs-fJfuTqcrVpeHK3pGwOiSjQ",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJtYsv9DhFFkcRArpP3kulHG0",
+        "price_level": 1,
+        "rating": 3.9,
+        "reference": "CmRRAAAAK4D1maTYZ6dlSQfmcsmJUbBjLcMelanZkZgGNWB-medyskHt8cPdiAPN4hgaBEdiWWWzHrwC6ZW-Zbqa8ThMc_cOSNThgkj1wm9Y73lZ_Z0V5BC5W_Y2ziPQp7bipmZhEhCtwni9c0VFsf2FssEK8up4GhTrnJKaKLCgoS5wdtWlslyIQRRRmQ",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "oś. Niepodległości 3, Kraków"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 50.0895258,
+            "lng": 20.023459
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.09087478029149,
+              "lng": 20.0248079802915
+            },
+            "southwest": {
+              "lat": 50.08817681970849,
+              "lng": 20.0221100197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "90c747b197533cc6a02d86f7bd601be32b27dee9",
+        "name": "Lam Hong",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "\u003ca href=\"https://maps.google.com/maps/contrib/109729815297755105667/photos\"\u003ePaweł Zet\u003c/a\u003e"
+            ],
+            "photo_reference": "CmRaAAAAtqxLWt4xeNV_zVGkokQI71iLlETBw_I8GFU44r4-z0bxOquLMuudIHLt7VWvKoC1PncNd2YOSa3pxaBUSQM5FmWmMhybiA-OcNgTZyyLMVC-7TA4PRc4CPJEww2sz-OdEhBYfauGYK5XSRZejZwUF_i0GhTC83EKTUFltpMh3GVoohkA1aCWcA",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJ-9nH90VFFkcRjEFSPBFHe5o",
+        "rating": 3.9,
+        "reference": "CmRSAAAAG2suMwNasar_oAJ8-EQ-fR_fEHM7VaHOfVTWKRJ7xDFFJPtUVNi116ngADqCh8BJw1DIhbOaW2DYz_UibX3hemFUmYoY_XXG3UMdfdMXFlNzOUy4S7yz6f1_kP7AcR5JEhC1I-Mfg-5WGPNi9YufZjjYGhQKX6rNVZAMAD42vojOSjmMApRpQA",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Osiedle Jagiellońskie 7, Kraków"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 50.07368890000001,
+            "lng": 20.0418406
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.0750378802915,
+              "lng": 20.04318958029151
+            },
+            "southwest": {
+              "lat": 50.0723399197085,
+              "lng": 20.0404916197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "3c410fd5bb88fcdad56cb4d4fe1b3903fca53e52",
+        "name": "Banolli",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 2848,
+            "html_attributions": [
+              "\u003ca href=\"https://maps.google.com/maps/contrib/105206179638396499433/photos\"\u003eGrzegorz Pakula\u003c/a\u003e"
+            ],
+            "photo_reference": "CmRaAAAAxubXS45Uu3sDsc_oQliPXS8ptgsbfog_9Mwvhui0LB8jqxhdOUvKgrft056KFtsc6071m4WQUOhxSPJk98_vmiz2yGUhi7fyewxwHru5MCrCZ4_DU4CJBrBoIjda7fHBEhDN26z1fAQDv1Pv0cg7JlihGhSi1lpABfoH1W3elaby0sX6IFCvnA",
+            "width": 4288
+          }
+        ],
+        "place_id": "ChIJWZrylBFFFkcRQ9fjWveg7GY",
+        "rating": 3.1,
+        "reference": "CmRRAAAAcBlzr-FBVcWx_AH0QBtPTYFyVdX_kj3V6HhEY0WBL7cfs8los1sUDu3ZTbB68RzzuDppPW-plhXEutF79e9ynh1aUIz-8THgdg3qjVdi6GtGwMyc2kL6_uxfLx3zA1apEhC8BTMIKIdqGCxvdNUpeleIGhQdsThiu_E3Wjpk5a28dJo3-am0NA",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Osiedle Centrum B 8, Kraków"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 50.0811511,
+            "lng": 20.0148559
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.0825000802915,
+              "lng": 20.0162048802915
+            },
+            "southwest": {
+              "lat": 50.0798021197085,
+              "lng": 20.0135069197085
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+        "id": "75ffdf5c65571065436afa9b08501f65ab3d265b",
+        "name": "Da Grasso",
+        "opening_hours": {
+          "open_now": true,
+          "weekday_text": []
+        },
+        "photos": [
+          {
+            "height": 4193,
+            "html_attributions": [
+              "\u003ca href=\"https://maps.google.com/maps/contrib/110311551097159799044/photos\"\u003ePrzemysław Gędźba\u003c/a\u003e"
+            ],
+            "photo_reference": "CmRaAAAA_2whbD-KB8cryoWiRY5MfFCJpnN0c9Ep1wo1KkTnYzqCTbCK443QkVI8zRTGBcIx-YPeXhvE2KP02-y0xStXLY-s97XnyqRQt-SB9lOT3B5HJQtk0dL5fPj0gOILQSBMEhDkqjS5HgyEoYxlvY0T7NCpGhQL_N2RwqWyNKVXwly_WtjIHEouqQ",
+            "width": 3145
+          }
+        ],
+        "place_id": "ChIJG2x-3zZFFkcRisBGWXbd9nU",
+        "rating": 3.3,
+        "reference": "CmRRAAAAztiXh7SXyvuaggmefd9_VEvOGmK0JfAV3fZg77o8yW7tcryVW4a6HE4kjdN5a0za1XPNt05HkrgGQ5wGI-3Wl0Mw8lO-idGZBy8YKsoNk2h4K5cbqX2BMKxg2m6NTBh-EhCpuklqDhA4BNmjhoL0_avWGhTqZfz1ycOLyZ_pUB_I7hFpGzmSyg",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Os. Dywizjonu 303 56 c, Kraków"
+      }
+    ]
