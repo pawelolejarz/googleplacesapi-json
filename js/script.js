@@ -10,22 +10,51 @@
             return;
         }
         var regex = new RegExp(searchField, "i");
-        var output = '<div class="" style="margin-bottom: 60px">';
+        var output = '<div class="container">';
         $.getJSON('data.json', function(data) {
             $.each(data, function(key, val){
                 if ((val.name.search(regex) != -1) || (val.vicinity.search(regex) != -1)) {
-                    output += '<div class="" style="width: 300px; background-color:#3095d3; box-shadow: 0 0 20px 2px #1d2124; margin: 20px auto">';
-                    output += '<figure class="figure"; style="margin-bottom: 0px"><img style="margin-top: 20px; margin-left: 10px" class="figure-img img-fluid" src="'+val.icon+'" alt="'+ val.name +'" /><figcaption class="figure-caption" style="color: black; font-size: 25px; margin-left: 25px">'+ val.name +'</figcaption></figure></a>';
-                    output += '<div class="">';
-                    output += '<p style="margin-bottom: 0px; margin-left: 25px">' + val.vicinity + '</p>'
+                    output += '<div></div>';
+                    output += '<div class="box col-xs-12 col-sm-6 col-md-4 col-lg-4">';
+                    output += '<div class="panel panel-info" style="cursor: pointer;">';
+                    output += '<div class="panel-heading">' + val.name + '</div>';
+                    output += '<div class="panel-body"><img src="'+val.icon+'" class="thumbnail" style="width:50px" alt="Image">';
+                    output += '<div class="panel-footer">' + val.vicinity + '</div>';
+                    output += '</div>';
                     output += '</div>';
                     output += '</div>';
                 }
             });
             output += '</div>';
             $('#results').html(output);
-        });
+
+            // $(".box").click(function(){
+            //     alert ($(this).text())
+            // });
+
+            $(document).ready(function () {
+            $(".box").on('click', function(){
+
+                alert(($(this).text()));
+                $(".cover").fadeIn('slow');
+                $(".popup").fadeIn('slow');
+
+            });
+            $(".popup").on('click', function () {
+                if($(event.target).is("#close")){
+                    $(".cover").fadeOut('slow');
+                    $(".popup").fadeOut('slow');
+                }
+            });
+            $(".cover").on('click', function () {
+                $(".cover").fadeOut('slow');
+                $(".popup").fadeOut('slow');
+            });
+            });
     });
+
+    });
+
 })(jQuery);
 
 

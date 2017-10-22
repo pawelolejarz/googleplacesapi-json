@@ -1,189 +1,539 @@
 [
-      {
-        "geometry": {
-          "location": {
-            "lat": 50.08244779999999,
-            "lng": 20.0224863
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 50.08379678029149,
-              "lng": 20.0238352802915
-            },
-            "southwest": {
-              "lat": 50.08109881970849,
-              "lng": 20.02113731970849
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-        "id": "1850c173d9c3bf4d0cdd54626ceb56bf527bb68f",
-        "name": "KFC",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 608,
-            "html_attributions": [
-              "\u003ca href=\"https://maps.google.com/maps/contrib/117893202703094118716/photos\"\u003eKFC\u003c/a\u003e"
-            ],
-            "photo_reference": "CmRaAAAAJaXQpXeNH_u8MWJxGqU6ySAkEbTLuxTPQEY2JdSMdoU1DJYSwmL5Qs2ZBsm6mEJPBf5wWvkFyxkxIOrvBteWBlUYoZJaX8bT0sDUMYB76LRHxGQQyGqCfffA96_D-6mlEhBaa080yDXq0s4P7q4pVhFOGhS2rMs-fJfuTqcrVpeHK3pGwOiSjQ",
-            "width": 1080
-          }
-        ],
-        "place_id": "ChIJtYsv9DhFFkcRArpP3kulHG0",
-        "price_level": 1,
-        "rating": 3.9,
-        "reference": "CmRRAAAAK4D1maTYZ6dlSQfmcsmJUbBjLcMelanZkZgGNWB-medyskHt8cPdiAPN4hgaBEdiWWWzHrwC6ZW-Zbqa8ThMc_cOSNThgkj1wm9Y73lZ_Z0V5BC5W_Y2ziPQp7bipmZhEhCtwni9c0VFsf2FssEK8up4GhTrnJKaKLCgoS5wdtWlslyIQRRRmQ",
-        "scope": "GOOGLE",
-        "types": [
-          "restaurant",
-          "food",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "oś. Niepodległości 3, Kraków"
+  {
+    "geometry": {
+      "location": {
+        "lat": 50.0730157,
+        "lng": 20.0288117
       },
-      {
-        "geometry": {
-          "location": {
-            "lat": 50.0895258,
-            "lng": 20.023459
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 50.09087478029149,
-              "lng": 20.0248079802915
-            },
-            "southwest": {
-              "lat": 50.08817681970849,
-              "lng": 20.0221100197085
-            }
-          }
+      "viewport": {
+        "northeast": {
+          "lat": 50.0747981802915,
+          "lng": 20.0298009802915
         },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-        "id": "90c747b197533cc6a02d86f7bd601be32b27dee9",
-        "name": "Lam Hong",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 2448,
-            "html_attributions": [
-              "\u003ca href=\"https://maps.google.com/maps/contrib/109729815297755105667/photos\"\u003ePaweł Zet\u003c/a\u003e"
-            ],
-            "photo_reference": "CmRaAAAAtqxLWt4xeNV_zVGkokQI71iLlETBw_I8GFU44r4-z0bxOquLMuudIHLt7VWvKoC1PncNd2YOSa3pxaBUSQM5FmWmMhybiA-OcNgTZyyLMVC-7TA4PRc4CPJEww2sz-OdEhBYfauGYK5XSRZejZwUF_i0GhTC83EKTUFltpMh3GVoohkA1aCWcA",
-            "width": 3264
-          }
-        ],
-        "place_id": "ChIJ-9nH90VFFkcRjEFSPBFHe5o",
-        "rating": 3.9,
-        "reference": "CmRSAAAAG2suMwNasar_oAJ8-EQ-fR_fEHM7VaHOfVTWKRJ7xDFFJPtUVNi116ngADqCh8BJw1DIhbOaW2DYz_UibX3hemFUmYoY_XXG3UMdfdMXFlNzOUy4S7yz6f1_kP7AcR5JEhC1I-Mfg-5WGPNi9YufZjjYGhQKX6rNVZAMAD42vojOSjmMApRpQA",
-        "scope": "GOOGLE",
-        "types": [
-          "restaurant",
-          "food",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Osiedle Jagiellońskie 7, Kraków"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 50.07368890000001,
-            "lng": 20.0418406
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 50.0750378802915,
-              "lng": 20.04318958029151
-            },
-            "southwest": {
-              "lat": 50.0723399197085,
-              "lng": 20.0404916197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-        "id": "3c410fd5bb88fcdad56cb4d4fe1b3903fca53e52",
-        "name": "Banolli",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 2848,
-            "html_attributions": [
-              "\u003ca href=\"https://maps.google.com/maps/contrib/105206179638396499433/photos\"\u003eGrzegorz Pakula\u003c/a\u003e"
-            ],
-            "photo_reference": "CmRaAAAAxubXS45Uu3sDsc_oQliPXS8ptgsbfog_9Mwvhui0LB8jqxhdOUvKgrft056KFtsc6071m4WQUOhxSPJk98_vmiz2yGUhi7fyewxwHru5MCrCZ4_DU4CJBrBoIjda7fHBEhDN26z1fAQDv1Pv0cg7JlihGhSi1lpABfoH1W3elaby0sX6IFCvnA",
-            "width": 4288
-          }
-        ],
-        "place_id": "ChIJWZrylBFFFkcRQ9fjWveg7GY",
-        "rating": 3.1,
-        "reference": "CmRRAAAAcBlzr-FBVcWx_AH0QBtPTYFyVdX_kj3V6HhEY0WBL7cfs8los1sUDu3ZTbB68RzzuDppPW-plhXEutF79e9ynh1aUIz-8THgdg3qjVdi6GtGwMyc2kL6_uxfLx3zA1apEhC8BTMIKIdqGCxvdNUpeleIGhQdsThiu_E3Wjpk5a28dJo3-am0NA",
-        "scope": "GOOGLE",
-        "types": [
-          "restaurant",
-          "food",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Osiedle Centrum B 8, Kraków"
-      },
-      {
-        "geometry": {
-          "location": {
-            "lat": 50.0811511,
-            "lng": 20.0148559
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 50.0825000802915,
-              "lng": 20.0162048802915
-            },
-            "southwest": {
-              "lat": 50.0798021197085,
-              "lng": 20.0135069197085
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-        "id": "75ffdf5c65571065436afa9b08501f65ab3d265b",
-        "name": "Da Grasso",
-        "opening_hours": {
-          "open_now": true,
-          "weekday_text": []
-        },
-        "photos": [
-          {
-            "height": 4193,
-            "html_attributions": [
-              "\u003ca href=\"https://maps.google.com/maps/contrib/110311551097159799044/photos\"\u003ePrzemysław Gędźba\u003c/a\u003e"
-            ],
-            "photo_reference": "CmRaAAAA_2whbD-KB8cryoWiRY5MfFCJpnN0c9Ep1wo1KkTnYzqCTbCK443QkVI8zRTGBcIx-YPeXhvE2KP02-y0xStXLY-s97XnyqRQt-SB9lOT3B5HJQtk0dL5fPj0gOILQSBMEhDkqjS5HgyEoYxlvY0T7NCpGhQL_N2RwqWyNKVXwly_WtjIHEouqQ",
-            "width": 3145
-          }
-        ],
-        "place_id": "ChIJG2x-3zZFFkcRisBGWXbd9nU",
-        "rating": 3.3,
-        "reference": "CmRRAAAAztiXh7SXyvuaggmefd9_VEvOGmK0JfAV3fZg77o8yW7tcryVW4a6HE4kjdN5a0za1XPNt05HkrgGQ5wGI-3Wl0Mw8lO-idGZBy8YKsoNk2h4K5cbqX2BMKxg2m6NTBh-EhCpuklqDhA4BNmjhoL0_avWGhTqZfz1ycOLyZ_pUB_I7hFpGzmSyg",
-        "scope": "GOOGLE",
-        "types": [
-          "meal_delivery",
-          "meal_takeaway",
-          "restaurant",
-          "food",
-          "point_of_interest",
-          "establishment"
-        ],
-        "vicinity": "Os. Dywizjonu 303 56 c, Kraków"
+        "southwest": {
+          "lat": 50.0721002197085,
+          "lng": 20.0271030197085
+        }
       }
-    ]
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+    "id": "d9331a21608ca55f515894fc9ac619f3f28b98b9",
+    "name": "Da Marco",
+    "place_id": "ChIJ2XWt7hdFFkcRBrecLRYBF9M",
+    "rating": 3,
+    "reference": "CmRSAAAAVAt_5gdFdupKZ6Og_S1SjBKqQySEOEDi6s4dYeN6cb2z6EGvVH0kXfA04ycKDfgJr5JKtehdALmOuMSQqeF9UlPimDFBjVW1uMbK3J3VfJOVI7MdA-TlSmAjx_c2YWAXEhC5yOYKyTWmu_J6iVgHNfZnGhTGNM7XLNCr-9aeNUkwYWFwxKMsHQ",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "osiedle Kolorowe 10, Kraków"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 50.0733881,
+        "lng": 20.0374559
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 50.0747539302915,
+          "lng": 20.0386715802915
+        },
+        "southwest": {
+          "lat": 50.0720559697085,
+          "lng": 20.0359736197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "34451c8148aabf1d711d6f28064df518e16e5848",
+    "name": "Bar Mleczny Centralny",
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": []
+    },
+    "photos": [
+      {
+        "height": 2988,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/111751507315505969748/photos\"\u003epiotr helmecki\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAA2vHiXhQtbmtW5w_l09y2jVHnv9LX7H8er9PUazttDxWWpRcUm7fevOYpifuIVBLVwHyhiulT3ljJ8JBI1czOIlULcHbuGeof9uKxL1k128w8CvhPtnqxnxzuEESJAYI6EhDcfkn7IuWOcBRc7E2WTI0cGhT79B9al3FhqOVMk4ajrdA9GIUULQ",
+        "width": 3984
+      }
+    ],
+    "place_id": "ChIJ7Y3k3hBFFkcRfY1pLjueQCk",
+    "rating": 4.4,
+    "reference": "CmRRAAAAVftFNTIdfUncYmUN8iENDgDdr5rDtwyDctA3DjoVUSiQuPtjc5_gqj8DSigPIccjYFfoP40BfJvkPivkiq2b_tXZbkz-Nfv5y1ZDz5GB24Pr9cxRzWwlw6gEPcX6SWn1EhB9qv9reYFQCyQyk-_q4xDyGhQ64C3v4NTKKrSz8qKzyCthOAXtgw",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "osiedle Centrum C 1, Kraków"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 50.078294,
+        "lng": 20.0479231
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 50.0796429802915,
+          "lng": 20.0492720802915
+        },
+        "southwest": {
+          "lat": 50.0769450197085,
+          "lng": 20.0465741197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+    "id": "500d24b866f819d16e7a8b705e782d6e62d83c08",
+    "name": "Klub Kombinator",
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": []
+    },
+    "photos": [
+      {
+        "height": 2336,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/110434897045694360620/photos\"\u003eGrzechu Łagoda\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAASB2STlG9HpcgOdYRq5d3Ig32qlg9dMnLQpNzPghb7LVUZqP7by6EuAYQzbTzAZHBTzfjJj1-7UC4vnGwYruMcwM5Gp6FOFwe4rNbmXyNcH2yDkEMvEWtN9Zd2lPD5NbgEhDQBaRw2HWVJORX2KuHLz-3GhRGTKt6zMWu-WVnWlAxrvyRHYn96Q",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJExacRA1FFkcRhd1iU16e0hk",
+    "rating": 4.5,
+    "reference": "CmRRAAAAKuxtToNxW7MCY9SARSdIZ_5lvu9hurZbZA5peVCttcUCczgNNE0zPdPgs1FxmQ20wGK7uqVOF9YS-hg0ZntrXAT-mQim4tvTsaEavLbQTVfnHe7-maBt487eKPw12V8zEhCAUxGrs179BMIYK9_zMwATGhR-UheP3mo7GPY4jzF5gzeHaeXcMg",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "25, Kraków"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 50.0714307,
+        "lng": 20.0344518
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 50.0728999302915,
+          "lng": 20.0358184802915
+        },
+        "southwest": {
+          "lat": 50.0702019697085,
+          "lng": 20.0331205197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "1a072dd2f8e3094b091e6e31ff405029754fbf36",
+    "name": "Max Grill",
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": []
+    },
+    "photos": [
+      {
+        "height": 4608,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/111893343069530468438/photos\"\u003eJakub Rzewuski\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAXCktz814aO6YyYFhKcLOTjHIHxZQl_Y4qAyxDcyLOyucoD0emFyyhf6E6Vx8CafNW8hGTo3X69cGNKLtyWlutSUR_S0lIyLv5YpKvuUDqKsKEfRCNlVdokc7biKFtXZBEhD3vILsZ6l01ZIikI83mM0cGhQRhPdiSen3qG229Vjzic7U6Yar-A",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJl1DaDRpFFkcRRT71I54TOgo",
+    "rating": 4.8,
+    "reference": "CmRRAAAA3UhG9bykvKmth3KtAxAqny0KdgJBY2m3DMchvXbOrHFM3XhALp1Fs1w4OfU3Ew-c07Hb0FHyRlT8ROkkVQwcO3JU7DyuaCRUQtqkZSqRbwtCwfAMqTWlWCYPCpzXMTnnEhBiDb_BiIwgkz3aDJ_xPUzeGhT-lAU-zTx961FVCcF8H0R_F6fABQ",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "aleja Jana Pawła II 232, Kraków"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 50.0838743,
+        "lng": 20.04475919999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 50.08522328029149,
+          "lng": 20.0460335802915
+        },
+        "southwest": {
+          "lat": 50.08252531970849,
+          "lng": 20.04333561970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+    "id": "04c3421f86735ceb7996d3bfa1e53d85fd40d93c",
+    "name": "PUB Novohucki",
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": []
+    },
+    "photos": [
+      {
+        "height": 719,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/103776314958317388636/photos\"\u003ePUB Novohucki\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAkZgajhau18eQx7BgC8wkcH_DsnOkiX0fnqDW-xJBN4uT5PPVdFDpwSLtLO3l3yol3Bb3aGXsEMcka-ppZdRGnLZZrcVkX0IZmqRdQa8TdkDdfphBeYKE4GAO-FAfBnwxEhAUTnRxI6Lj3qv3rBjYkg10GhRZMmiFc5QeYmUn1yLFybVM2WVImQ",
+        "width": 719
+      }
+    ],
+    "place_id": "ChIJe61cc2xFFkcR10vHBcYm-ks",
+    "rating": 4.5,
+    "reference": "CmRRAAAAApc5nDbP47pnFuGmwD_IbrWxRhlhFVt_a6Zfl5p5m5Z-jV-_-zUwYNCjCQNuME_72uGB0NhgwLLqwZ0xd6N_EMaI0a-3qfv1k4LHLvsmhFOI1l_YTf5wNt_dw3IK0tr4EhC0c6QR3EDGA1zVGDHv3z0JGhQirfuVrFafvwrLxfk_p1bSyXXrAQ",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Odmogile 1B, Kraków"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 50.0878418,
+        "lng": 20.0197224
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 50.0891907802915,
+          "lng": 20.0210713802915
+        },
+        "southwest": {
+          "lat": 50.0864928197085,
+          "lng": 20.0183734197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "77f02b6563fde52fbd1856873bf38cd4bdb194af",
+    "name": "Sigma Pizza&Bar",
+    "opening_hours": {
+      "open_now": true,
+      "weekday_text": []
+    },
+    "photos": [
+      {
+        "height": 756,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/103680028515362012732/photos\"\u003eSigma Pizza&amp;Bar\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRZAAAAzpCcTtszGOZ1_rMgXremyU3WYc2LGcWGKGGx8gTCz2yQqobUM5ED9mns_1LBak--68BNk22roRCB_g_qZSS9_1mHfPs_zJgIkuy9bvtM4n2eD-Bvg52ilcrt74nzeFfbEhCUlfikLmkdjRJb5AVbTfP6GhS_YEHJz98TK7zVQQNESQ_evYtKUQ",
+        "width": 756
+      }
+    ],
+    "place_id": "ChIJC_Sq7UhFFkcRVnQ599nJlX4",
+    "rating": 3.8,
+    "reference": "CmRRAAAAyOwjAAhH3STZcEXNSO4gAd98r_i0FvYAW8owNvdJG1OX-nkhBdFBr-9x2ef1eJNTkskIGxlzb6qikFFi6Kpu5sOMLyVYAwYeEEmQTX3KBzleATCIt6oKs4AUHYC5zC5DEhCBUd-wC7Wx-GiSJ6I2-DbeGhRAA37II5QBCB7J3J_sXRXq6Oyulw",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "osiedle Na Lotnisku 23A, Kraków"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 50.0950358,
+        "lng": 19.999251
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 50.0963847802915,
+          "lng": 20.0005999802915
+        },
+        "southwest": {
+          "lat": 50.0936868197085,
+          "lng": 19.9979020197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "a1a250cf4a88270593e0a8f091c62f7a02e41147",
+    "name": "Pizzeria El Diablo",
+    "opening_hours": {
+      "open_now": false,
+      "weekday_text": []
+    },
+    "place_id": "ChIJdVdOHrFaFkcRdAdOv8TogjA",
+    "rating": 2.8,
+    "reference": "CmRRAAAAmJMSzf_zdUmjIyEfFv6KYabkcXWAE91NiK99n73OoJPoYDX6sbELZVstjS7Y8uV0p3a2xtR_F74u6MAgt5vVatqgvSOBeoFg2YvEX2Y_aJkmxPgj4fwKN7n_pfk70Si8EhAdiWt-9gWLCdFnSbYr43QhGhTlxxY05nuN5uYBp6_juIOUhY6YnQ",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "osiedle Złotego Wieku 82, Kraków"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 50.0714307,
+        "lng": 20.0344518
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 50.0728999302915,
+          "lng": 20.0358184802915
+        },
+        "southwest": {
+          "lat": 50.0702019697085,
+          "lng": 20.0331205197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "1a072dd2f8e3094b091e6e31ff405029754fbf36",
+    "name": "Max Grill",
+    "opening_hours": {
+      "open_now": false,
+      "weekday_text": []
+    },
+    "photos": [
+      {
+        "height": 4608,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/111893343069530468438/photos\"\u003eJakub Rzewuski\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAGHkURrO3B4Zv7UnOH6JaBXic1U7gqgflIdBMQ4jKy20TQehDV4FNX2igTc-SHxiXVaNCA9X_wo_g0Rp9VUQ2Rq-2rP2c2RHfsqLUIQyOUbO2EoJCXewzklMZv04feqN_EhDVzqjt6TZxIK3HDce9DENcGhTtB5cyYLaeNqDfe8o3RyOnwHZqmA",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJl1DaDRpFFkcRRT71I54TOgo",
+    "rating": 4.8,
+    "reference": "CmRRAAAAZWm0vDDuf1vNykOC4WA4Vj4EFqLzasvxj1MM-b7LmtLqzFO7nwQ6fO7UvUGjpfIxRmBmX2d1FqotB6Lz40ev1sVUJPnJs_zaOK_SaVjVzAZ6N5R41mdbkKTu9UPlX7hQEhDPdOb95f2Tte7ZkM8P4zgjGhRCc_6YwD7krhsnImz_-wBjplHYWA",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "aleja Jana Pawła II 232, Kraków"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 50.0838743,
+        "lng": 20.04475919999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 50.08522328029149,
+          "lng": 20.0460335802915
+        },
+        "southwest": {
+          "lat": 50.08252531970849,
+          "lng": 20.04333561970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+    "id": "04c3421f86735ceb7996d3bfa1e53d85fd40d93c",
+    "name": "PUB Novohucki",
+    "opening_hours": {
+      "open_now": false,
+      "weekday_text": []
+    },
+    "photos": [
+      {
+        "height": 719,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/103776314958317388636/photos\"\u003ePUB Novohucki\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAAzmZPJGa4ykcxLLZs-hfeEFiGqWKc5fQPeIg86DjYbBmzypLlLgys-y0ZwoD-2_zW0NM8wT-oh_bsDQybIdhOReIj6ewMZ7mU7SmzKoO7oAEB4enQpFSNkSJbF83iMdM8EhDYQDeUz2308k6ULaxT_WoDGhSQe99Wq7E10-Nnl-Hb2acErgBViA",
+        "width": 719
+      }
+    ],
+    "place_id": "ChIJe61cc2xFFkcR10vHBcYm-ks",
+    "rating": 4.5,
+    "reference": "CmRRAAAA690LFneFnzvXel8o5RpyNDtt3K8tfUy-O28LBNykmYQtsykJzX1chUNVUf1iYLWhPXTspWZQ2YwQX1EBj-rhO2wBjqmMYiKiEbTr72fYHKRxosBpwttIlz5kx24oWqJjEhALB67DeYLeKQNg-u1yi9fZGhTmDuTFpilaUbTsvrZBNWMdNMtDEg",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Odmogile 1B, Kraków"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 50.0878418,
+        "lng": 20.0197224
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 50.0891907802915,
+          "lng": 20.0210713802915
+        },
+        "southwest": {
+          "lat": 50.0864928197085,
+          "lng": 20.0183734197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "77f02b6563fde52fbd1856873bf38cd4bdb194af",
+    "name": "Sigma Pizza&Bar",
+    "opening_hours": {
+      "open_now": false,
+      "weekday_text": []
+    },
+    "photos": [
+      {
+        "height": 756,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/103680028515362012732/photos\"\u003eSigma Pizza&amp;Bar\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRZAAAAAWsMpZ4mpwsTkEAMm1EO0cw_Hiskl8wi5RM48wIVuHT47v0WoIL3r7blSDoo4cEWt9AEMBQzgviD7zTspVDbLx-tfuB72CR2_56BySoeZBRA0azS6IJI32wRi_GIzENdEhDki2nalz3QtsH-X-4az1RYGhRRggf64MPhZBbE3XS-ksZK64bP1Q",
+        "width": 756
+      }
+    ],
+    "place_id": "ChIJC_Sq7UhFFkcRVnQ599nJlX4",
+    "rating": 3.8,
+    "reference": "CmRRAAAAEnLAI2iorzb3Ok2MB5h8A9aIq3LZpkNgCzxfioqRT7cPDYQNg-YPK-8JHRYUshOigqPIERRhaX_Pke_3IHMEFuYAxfw7MsVqS08fQR_FL7cbcFBQMmL5MA-_jqAlzaisEhBuP4ANSYsRK560FqtcKAkbGhS8yx4fIG6Y273hyzTLNwLWwFHK8Q",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "osiedle Na Lotnisku 23A, Kraków"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 50.069419,
+        "lng": 20.0519929
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 50.07076798029149,
+          "lng": 20.0533418802915
+        },
+        "southwest": {
+          "lat": 50.06807001970849,
+          "lng": 20.0506439197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "9e72f1d8898fdf23e58c377e14ca5fa29a3a45a8",
+    "name": "MAX Burger NH",
+    "opening_hours": {
+      "open_now": false,
+      "weekday_text": []
+    },
+    "photos": [
+      {
+        "height": 1360,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/101184986310810142581/photos\"\u003eMAX Burger NH\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAABYmFQy1KoJuTkZ6-6vcW6B1AWKx37FdrO1DagATUePgdU2uodWC-BFPk2rYT2k1wfyuxqFC0CFapODCp5y8Uy-KOd_b7YNT307UMWYeqjNk4I1j98M1hTsTF2VUyXqJFEhAELTaHcvEQDUiSwhgER6tHGhS_UUQKHWyxFfnkZuS6LIDspLXZ2g",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJ0aXGsPxEFkcRktBhI4Vd4gE",
+    "rating": 4.6,
+    "reference": "CmRRAAAA-uN0PoXE2acALCxweuT_wafGE6SFkLFLLcuPlibWotExTCyv_OqSXzLlrQRo44WObUTlImyubx46hMNtlzKQ6oh92sUVmzrt-C8qmsToABb0dblAY2xNBuEIIKRGJ2SgEhC9HT9Glcs-SFipwtuyAVbNGhRoih1-bDSLl8EVokB3A3obSf1h9w",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "33, Kraków"
+  },
+  {
+    "geometry": {
+      "location": {
+        "lat": 50.062515,
+        "lng": 20.0202513
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 50.06391478029149,
+          "lng": 20.0215627302915
+        },
+        "southwest": {
+          "lat": 50.0612168197085,
+          "lng": 20.0188647697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+    "id": "90d07f41c1d783364c180779a94c347f75a21398",
+    "name": "Pierogarnia www.RUSKIENADOWOZ.pl",
+    "opening_hours": {
+      "open_now": false,
+      "weekday_text": []
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "\u003ca href=\"https://maps.google.com/maps/contrib/100773278164878643489/photos\"\u003ePierogarnia www.RUSKIENADOWOZ.pl\u003c/a\u003e"
+        ],
+        "photo_reference": "CmRaAAAATaOCdWVRS8e2oRIYYt1TKziUFwNBhXs0-Bl2w5yLck9ey2rRoR2prfk6Z98nU_0V6Yk-G8n3GDpK7_UOiPCHmY1lbWxwihfpL22DWYxMBGaFMCmLNAyrB-zAKnlUngQZEhDjEBtKNIxlFUuhS7PYElG7GhT36FJnJ_M-UuZe4JUxVr6xq2284g",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJx2PyAuBEFkcRKMsYKZ7mDUA",
+    "rating": 4.5,
+    "reference": "CmRRAAAAd3zJhKdBD7Y2Oi49UX2WCqmAmh7izfQ1CwMoc8U1GvzH0562TgM8WF-Lb9eq7v0UKj67V5uI9A5-rmZVvYIyU6NA90rA9z67DgAUiauKFw4-KaNs8XQgYvyDevFuq0l7EhBdygeU7OAf68bKW5lDJ6meGhTENBGqHAHF954zr6ufm0ckojMVIw",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Sikorki 2, Kraków"
+  }
+]
+
