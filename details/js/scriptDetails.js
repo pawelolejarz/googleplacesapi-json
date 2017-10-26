@@ -1,17 +1,16 @@
 /**
  * Created by pawelolejarz on 24.10.2017.
  */
-
+//mapowanie skryptu JQuery
 (function($) {
+    // pobiera z localStorage przeglądarki zapisany klucz
     var detailsKey = localStorage.getItem("key");
     var output = '';
 
     $.getJSON('../data.json', function(data) {
         $.each(data, function(key, val){
-
+            //jeśli klucz jest taki sam jak szukany
             if (key==detailsKey) {
-
-
                 output += '<div class="panel panel-info" style="width: 300px; margin: 0 auto">';
                 output += '<div class="panel-heading">' + val.name + '</div>';
                 output += '<div class="panel-body"><img src="'+val.icon+'" class="thumbnail" style="width:50px" alt="Ikona">' + "Ocena lokalu: " + val.rating + '</div>';
