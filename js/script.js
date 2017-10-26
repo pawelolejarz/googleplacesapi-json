@@ -17,7 +17,8 @@
         // tworzymy pustą tablicę na klucze
         var keys = [];
         $.getJSON('data.json', function(data) {
-            $.each(data, function(key, val){ //
+            $.each(data, function(key, val){
+                // sprawdza warunek, jeśli val.name nie jest równe -1 lub val.vicinity nie jest równe -1 to utwórz bloczki i uzupełnij je danymi
                 if ((val.name.search(regex) != -1) || (val.vicinity.search(regex) != -1)) {
                     output += '<div id="box_' + key + '" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">';
                     output += '<div class="panel panel-info" style="cursor: pointer;">';
